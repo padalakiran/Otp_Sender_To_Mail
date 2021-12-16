@@ -106,3 +106,5 @@ btn2.place(x=199,y=260)
 btn2['state'] =DISABLED
 
 root.mainloop()
+
+#github:- @padalakiran
