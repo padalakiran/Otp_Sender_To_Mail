@@ -1,22 +1,17 @@
 # Otp_Sender_To_Mail
+## Aim Of Project
+With This Project We Got to Know About How To Send And Validate One Time Password (OTP) To Mail Using Python. And Also Know About How to Work With Tkinter GUI
 
-##  for this project we need to import below modules
+## Technologies Used
+➢ Python &nbsp;
 
-from email.mime.text import MIMEText
 
-from email.mime.multipart import MIMEMultipart
-
-import smtplib
-
-import string
-
-import re
-
-import secrets
-
-from tkinter import *
-
-from tkinter import messagebox
+##  Modules Used
+➤smtplib &nbsp; &nbsp;
+➤string &nbsp; &nbsp;
+➤re &nbsp; &nbsp;
+➤secrets &nbsp; &nbsp;
+➤tkinter &nbsp; &nbsp;
 
 ## Final OutPut Of Project Is
 
